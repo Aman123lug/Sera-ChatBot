@@ -1,0 +1,6 @@
+run python file first
+step 1 : download ngrok for host your app live
+step 2 : open ngrok terminal type : ngrok port 5000
+step 3 : copy forwarded link and paste in your browser
+step 4 : open link : https://bot.dialogflow.com/a26473a9-12a9-4e52-8376-f87ea9d3f422
+step 5 : test bot
